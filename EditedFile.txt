@@ -1,0 +1,2311 @@
+The Relationship Between the Therapeutic Alliance and Treatment
+Outcome in Two Distinct Psychotherapies for Chronic Depression
+Bruce A. Arnow, Dana Steidtmann,
+Christine Blasey, and Rachel Manber
+Stanford University School of Medicine
+Michael J. Constantino
+University of Massachusetts Amherst
+Daniel N. Klein
+State University of New York at Stony Brook
+John C. Markowitz
+Columbia University/New York State Psychiatric Institute
+Barbara O. Rothbaum
+Emory University School of Medicine
+Michael E. Thase
+University of Pennsylvania School of Medicine
+Aaron J. Fisher
+Stanford University School of Medicine
+James H. Kocsis
+Weill Medical College of Cornell University
+Objective: This study tested whether the quality of the patient-rated working alliance, measured early in
+treatment, predicted subsequent symptom reduction in chronically depressed patients. Secondarily, the study
+assessed whether the relationship between early alliance and response to treatment differed between patients
+receiving cognitive behavioral analysis system of psychotherapy vs. brief supportive psychotherapy
+ Method: 395 adults who met criteria for chronic depression
+and did not fully remit during a 12-week algorithm-based, open-label pharmacotherapy trial were randomized
+to receive either 16?20 sessions of CBASP or BSP in addition to continued, algorithm-based antidepressant
+medication. Of these, 224 patients completed the Working Alliance Inventory-Short Form at Weeks 2 or 4 of
+treatment. Blind raters assessed depressive symptoms at 2-week intervals across treatment using the Hamilton
+Rating Scale for Depression. Linear mixed models tested the association between early alliance and subse-
+quent symptom ratings while accounting for early symptom change. Results: A more positive early working
+alliance was associated with lower subsequent symptom ratings in both the CBASP and BSP, F
+62.48, p  .001. In addition, the interaction between alliance and psychotherapy type was significant, such that
+alliance quality was more strongly associated with symptom ratings among those in the CBASP treatment
+group, F 8.31, p  .004. Conclusions: The results support the role of the therapeutic alliance as
+a predictor of outcome across dissimilar treatments for chronic depression. Contrary to expectations, the
+therapeutic alliance was more strongly related to outcome in CBASP, the more directive of the 2 therapies.
+Keywords: alliance, depression, psychotherapy outcome, REVAMP
+Considerable evidence associates the therapeutic alliance with
+psychotherapy outcome for a wide range of diagnoses and popu-
+lations  A recent
+meta-analysis of 190 independent alliance?outcome association
+studies reported
+a modest but significant relationship between alliance quality and
+outcome  None-
+theless, methodological problems in the extant literature on the
+This article was published Online First January 21, 2013.
+Bruce A. Arnow, Dana Steidtmann, Christine Blasey, and Rachel
+Manber, Department of Psychiatry and Behavioral Sciences, Stanford
+University School of Medicine; Michael J. Constantino, Department of
+Psychology, University of Massachusetts Amherst; Daniel N. Klein,
+Department of Psychology, State University of New York at Stony
+Brook; John C. Markowitz, Columbia University/New York State Psy-
+chiatric Institute; Barbara O. Rothbaum, Department of Psychiatry,
+Emory University School of Medicine; Michael E. Thase, Department
+of Psychiatry, University of Pennsylvania School of Medicine; James
+H. Kocsis, Department of Psychiatry, Weill Medical College of Cornell
+University; Aaron J. Fisher, Department of Psychiatry and Behavioral
+Sciences, Stanford University School of Medicine.
+This study was funded by the National Institute of Mental Health Grant U01
+MH61504, awarded to James H. Kocsis, Department of Psychiatry, Weill
+Medical College of Cornell University. A version of this article was presented
+at the 41st annual meeting of the Society for Psychotherapy Research, Asilo-
+mar, Califrornia, June 2010.
+Correspondence concerning this article should be addressed to Bruce A.
+Arnow, Department of Psychiatry and Behavioral Sciences, Room 1325,
+Stanford University School of Medicine, Stanford, CA 94305-5722.
+E-mail: arnow@stanford.edu
+T
+hi
+s
+do
+cu
+m
+en
+t
+is
+co
+py
+ri
+gh
+te
+d
+by
+th
+e
+A
+m
+er
+ic
+an
+Ps
+yc
+ho
+lo
+gi
+ca
+l
+A
+ss
+oc
+ia
+tio
+n
+or
+on
+e
+of
+its
+al
+lie
+d
+pu
+bl
+is
+he
+rs
+.
+T
+hi
+s
+ar
+tic
+le
+is
+in
+te
+nd
+ed
+so
+le
+ly
+fo
+r
+th
+e
+pe
+rs
+on
+al
+us
+e
+of
+th
+e
+in
+di
+vi
+du
+al
+us
+er
+an
+d
+is
+no
+t
+to
+be
+di
+ss
+em
+in
+at
+ed
+br
+oa
+dl
+y.
+Journal of Consulting and Clinical Psychology © 2013 American Psychological Association
+2013, Vol. 81, No. 4, 627?638 0022-006X/13/$12.00 DOI: 10.1037/a0031530
+627
+alliance?outcome association limit the conclusions that can be
+drawn.
+A key issue is the direction of the alliance?outcome link. A
+significant association between alliance and treatment outcome
+may arise because the experience of a good therapeutic alliance
+generates symptom change, because symptom change positively
+influences one?s perception of the alliance, or because the two
+variables mutually influence one another  As Feeley, DeRubeis, and
+Gelfand noted, existing studies on the alliance?outcome
+relationship have generally been observational rather than exper-
+imental. Observational studies allow inference of causal implica-
+tions only if certain conditions are met, a crucial one being
+temporal precedence between the process and out-
+come variables  To support the hypothesis that a good
+therapeutic alliance mediates therapy outcome, the alliance must
+be shown to predict outcome at a subsequent time point, while
+accounting for change on the outcome variable prior to alliance
+measurement 
+Few studies meet these criteria  Reports on the
+relationship between the alliance and outcome have been limited
+by Correlating the alliance assessed at time point A with
+subsequent outcome at posttreatment without accounting for the
+possibility that some of the predicted change had already occurred
+prior to time point A and correlating improvement in the
+outcome variable from pre- to posttreatment with an average of
+alliance scores across the course of treatment 
+Among the relatively small number of studies that have inves-
+tigated the temporal nature of the association between alliance and
+outcome in patients with depression, results are inconsistent. We
+are aware of three studies in which researchers have examined
+whether alliance predicts subsequent outcome without controlling
+for change in symptoms prior to the alliance assessment; none of
+these demonstrated a significant alliance?outcome link. DeRubeis
+and Feeley reported that alliance at Treatment Week 2 did
+not predict subsequent residual change in depression severity in a
+small sample of 25 patients diagnosed with major depressive
+disorder who received cognitive therapy  Interest-
+ingly, researchers of this study found the converse, that prior
+change in depressive symptoms predicted quality of the alliance
+measured during Treatment Weeks 7?9 and 10?12. In another
+small study of 25 patients with MDD receiving CT, Feeley et al.
+again found that Week 2 alliance did not predict subsequent
+symptom change; this report did not replicate the earlier converse
+finding that symptom change predicted later alliance  A study of 60 patients with MDD treated with CT
+examined the association between repeated measures of the alli-
+ance and session-to-session symptom improvement across the first
+five sessions of treatment 
+The alliance did not predict intersession reductions in symptoms,
+but prior symptom change did predict subsequent alliance strength
+ These investigators did not examine outcome
+beyond 5 weeks.
+Four studies conducted with depressed patients examined
+whether alliance predicts subsequent outcome, while also control-
+ling for change in outcome prior to measuring the alliance. This
+reflects the most stringent test of the temporal associations be-
+tween alliance and symptom change. In a study of 54 elderly
+patients with MDD who received either brief dynamic therapy,
+behavior therapy, or CT, Gaston, Marmar, Gallagher, and Thomp-
+son reported that the relationship between alliance and
+outcome across all three treatments was not significant. Three
+other studies found that alliance quality predicted subsequent
+change in symptoms when accounting for symptom change prior
+to alliance assessment. In a study involving 367 chronically de-
+pressed patients treated with either cognitive behavioral analysis
+system of psychotherapy or CBASP plus medication, the
+alliance significantly predicted subsequent change in depressive
+symptoms while controlling for prior symptom change and other
+patient characteristics with the potential to influence the alliance
+ neither early level of symptoms nor early
+change in symptoms predicted the subsequent level or course of
+the alliance. In a study of 45 patients with MDD treated with an
+alliance-enhancing therapy  after
+controlling for early change in symptoms, early alliance predicted
+change in depression scores from baseline to end of treatment
+ These investigators also measured alliance later in treat-
+ment and found that an average of alliance assessments conducted
+at Sessions 3?9 had an even stronger relationship with outcome
+than the early alliance  though this
+association did not control for previous symptom change. Finally,
+Webb and colleagues examined the alliance in 105 de-
+pressed patients treated with CT in two separate randomized
+controlled trials. An observer-rated version of early alliance was
+used and was found to significantly predict outcome.
+The inconsistent findings of studies that have reported on the
+relation between alliance and subsequent symptom change may be related to 
+the model of psychotherapy used and failure to examine
+specific dimensions of the alliance. Although the data are mixed
+ theory suggests that the alliance is
+composed of different components, specifically tasks, goals, and
+the therapist?patient emotional bond  Different
+psychotherapy models may evoke different alliance types, ex-
+pressed through different scoring patterns on alliance dimensions
+ Webb et al. reported that
+symptom change in patients who received CT was related to an
+alliance factor assessing agreement on goals and tasks, but not to
+the therapist?patient bond factor.
+All but one of the previously cited studies involved only a single
+treatment, precluding comparison of alliance effects across treat-
+ments. In the one study that involved more than one psychotherapy
+model, the sample size was too small to adequately examine
+potential differences  Thus, no studies exam-
+ining the alliance?outcome relationship in depressed patients have
+reported on between-treatment differences in dimensions of the
+alliance.
+In the current study, we examined the relationship between early
+alliance and subsequent change in depressive symptoms in two
+distinct psychotherapies, namely CBASP or brief supportive psy-
+chotherapy  while accounting for prior symptom change in
+a single-patient population, consisting of chronically depressed
+patients. Chronically depressed patients may present unique diffi-
+culties in developing and maintaining productive therapeutic alli-
+T
+hi
+s
+do
+cu
+m
+en
+t
+is
+co
+py
+ri
+gh
+te
+d
+by
+th
+e
+A
+m
+er
+ic
+an
+Ps
+yc
+ho
+lo
+gi
+ca
+l
+A
+ss
+oc
+ia
+tio
+n
+or
+on
+e
+of
+its
+al
+lie
+d
+pu
+bl
+is
+he
+rs
+.
+T
+hi
+s
+ar
+tic
+le
+is
+in
+te
+nd
+ed
+so
+le
+ly
+fo
+r
+th
+e
+pe
+rs
+on
+al
+us
+e
+of
+th
+e
+in
+di
+vi
+du
+al
+us
+er
+an
+d
+is
+no
+t
+to
+be
+di
+ss
+em
+in
+at
+ed
+br
+oa
+dl
+y.
+628 ARNOW ET AL.
+ances. McCullough has argued that the chronically de-
+pressed patient is distinguished by preoperational thinking involving features such as egocentric views of the self
+and others, impaired empathy, and lack of responsiveness to cor-
+rective feedback. Although interpersonal difficulties such as social
+skills deficits and interpersonal dependency are characteristic of
+depressed patients in general  the
+chronically depressed patient, according to McCullough, is unique
+in his or her failure to understand the relationship between think-
+ing, behavior, and environmental consequences. In turn, this re-
+sults in a lack of effective agency, and a wariness of interpersonal
+engagement  The interpersonal style of
+the chronically depressed patient, according to McCullough, man-
+ifests as either hostile detachment or excessive submissiveness. In
+a test of McCullough?s theory, based on data gathered in several
+samples using the Impact Message Inventory  Constantino et al. found that chronically depressed
+patients, compared with an acutely depressed sample, had signif-
+icantly greater hostile and lower friendly-dominant impacts on
+their therapists. Compared with a normative comparison group,
+chronically depressed patient impacts were significantly more hos-
+tile and hostile-submissive, and significantly less friendly domi-
+nant.
+Our primary hypothesis was that a stronger early therapeutic
+alliance would predict a significantly greater treatment response
+both for patients receiving CBASP and for patients receiving BSP.
+For CBASP, this hypothesis stemmed from previous findings
+reported by Klein et al.  For BSP, the expectation of an
+alliance?outcome association is consistent with the model?s puta-
+tive focus on ?common factors,? including the therapeutic alliance
+ As Markowitz et al. 
+noted, although all psychotherapies use common factors, ?they . . .
+do so to differing degrees?  Given BSP?s emphasis on the
+therapeutic alliance and its de-emphasis of the procedural inter-
+ventions characteristic of CBASP and other structured psychother-
+apy models, we further hypothesized that the magnitude of the
+alliance?outcome correlation would be greater in BSP than
+CBASP. Additional aims were to explore whether CBASP and
+BSP differed in alliance development and, if so, whether the two
+models were associated with differences in the dimensions of early
+alliance. On the basis of the findings of Strunk et al. and
+DeRubeis and Feeley  we also aimed to evaluate the com-
+plementary hypothesis that early symptom reduction would predict
+therapeutic alliance rating across treatment.
+Method
+Design
+The current study reports data from Phase 2 of the Research
+Evaluating the Value of Augmenting Medication With Psychother-
+apy trial. The REVAMP trial design has been de-
+scribed in detail elsewhere  Briefly, it com-
+prised two phases. In the nonrandomized Phase 1, all participants
+received algorithm-driven antidepressant medication. Those who
+did not achieve remission  a 24-item total HAM-D score of 7 or less, and not meeting
+Diagnostic and Statistical Manual of Mental Disorders, fourth
+edition, text revision criteria for MDD over two
+consecutive visits during Weeks 6 through 12 continued to Phase
+2, in which they were randomly assigned to receive CBASP 
+antidepressant medication  BSP  ADM, or ADM only.
+Phase 2 findings revealed no differences between the three condi-
+tions in remission, partial response, or change in HAM-D scores.
+Among all participants, remission was achieved in 15%, and
+partial response in 22.5%  Secondary mixed
+model analyses revealed significantly lower mean HAM-D scores
+in the CBASP versus BSP comparison  although the two
+groups did not differ in rate of change.
+Participants
+Participants were outpatients, age 18?75, recruited at eight
+separate sites. Institutional Review Board committees at each site
+approved the study. All patients met DSM?IV?TR criteria for current MDD as deter-
+mined by the Structured Clinical Interview for DSM?IV Axis I
+Disorders, Patient Edition  All patients had experienced the current MDD
+episode for a minimum of 4 weeks, and all had experienced
+depressive symptoms for at least 2 years without remission, thus
+meeting criteria for chronic MDD, recurrent MDD with incom-
+plete interepisode recovery, or ?double depression?  In addition, partici-
+pants scored at least 20 on the 24-item HAM-D 
+at baseline and spoke English.
+Exclusion criteria were current diagnosis of any psychotic dis-
+order; dementia; or antisocial, schizotypal, or severe borderline
+personality disorder; current primary diagnosis of posttraumatic
+stress disorder, anorexia, bulimia, or obsessive-compulsive disor-
+der; history of bipolar disorder; previous CBASP treatment; pre-
+vious nonresponse to four or more steps of pharmacotherapy
+algorithm; unwillingness to terminate other psychiatric treatment
+during the study; pregnancy; serious unstable medical illness; and
+current alcohol or substance dependence that required detoxification. Participants with alcohol and
+substance abuse were not excluded if they agreed to participate in
+Alcoholics Anonymous or chemical dependence counseling and to
+implement a sobriety plan while participating in the study.
+Pharmacotherapy
+All patients received concomitant algorithm-based pharmaco-
+therapy. The pharmacotherapy algorithm was based on other empirically derived regimens
+including the Sequenced Treatment Alternatives to Relieve De-
+pression study  The study medications included
+sertraline, escitalopram, bupropion XL, venlafaxine XR, mirtazap-
+ine, and lithium. Prior treatment history determined choice of
+initial medication; treatment naïve patients began on sertraline.
+Minimum and maximum doses, speed of dosage escalation, and
+trial lengths after each change were specified by the protocol.
+Participants were evaluated every 2 weeks. Participants who
+were intolerant to a medication during the first 4 weeks of Phase
+1 could move to the next option in the sequence. Pharmacothera-
+pists followed the Fawcett, Epstein, Fiester, Elkin, and Autry
+manual from the National Institute of Mental Health Treat-
+T
+hi
+s
+do
+cu
+m
+en
+t
+is
+co
+py
+ri
+gh
+te
+d
+by
+th
+e
+A
+m
+er
+ic
+an
+Ps
+yc
+ho
+lo
+gi
+ca
+l
+A
+ss
+oc
+ia
+tio
+n
+or
+on
+e
+of
+its
+al
+lie
+d
+pu
+bl
+is
+he
+rs
+.
+T
+hi
+s
+ar
+tic
+le
+is
+in
+te
+nd
+ed
+so
+le
+ly
+fo
+r
+th
+e
+pe
+rs
+on
+al
+us
+e
+of
+th
+e
+in
+di
+vi
+du
+al
+us
+er
+an
+d
+is
+no
+t
+to
+be
+di
+ss
+em
+in
+at
+ed
+br
+oa
+dl
+y.
+629THERAPEUTIC ALLIANCE AND TREATMENT OUTCOME
+ment of Depression Collaborative Research Program to ensure minimal psychotherapeutic
+intervention.
+CBASP
+CBASP is a manualized, time-limited, cognitive-behavioral in-
+tervention designed specifically for patients suffering from chronic
+depression  A primary assumption of CBASP
+is that chronically depressed patients fail to understand the rela-
+tionships among their own thoughts, behaviors, and environmental
+consequences. Situational analysis, a core CBASP procedure, is a
+social problem-solving algorithm designed to modify maladaptive
+thoughts and behaviors and enhance awareness of the conse-
+quences of one?s own thoughts and behaviors  Patients are asked to track distressing inter-
+personal situations between sessions using the Coping Style Ques-
+tionnaire  During situational analysis, the
+patient and therapist examine the associations among thoughts,
+behaviors, and actual and desired outcomes in specific interper-
+sonal encounters. CBASP focuses on examining discrepancies
+between actual and desired outcomes and on how thinking and
+behavior need to change in order to increase the likelihood of
+achieving the desired outcome. If the desired outcome is unreal-
+istic, the therapist works with the patient to formulate a more
+achievable goal. CBASP therapists formulate transference hypoth-
+eses at the beginning of treatment and implement explicit proce-
+dures for addressing interactions within the therapeutic relation-
+ship that are inconsistent with the patient?s relationship
+expectations  with the goal of teaching the
+patient the situational specificity of others? reactions to their be-
+havior.
+CBASP emphasizes the importance of ?disciplined personal
+involvement? on the part of the psychother-
+apist in promoting a sound therapeutic alliance. This requires the
+therapist?s willingness to productively make use of both positive
+and negative reactions to the patient. Positive reactions were often
+contrasted with the responses of significant others in the patient?s
+history. For instance, a therapist?s willingness to accept a patient?s
+angry response might be contrasted with the habitual response of
+significant others in the patient?s history  When the therapist has negative responses
+toward a patient, procedures included verbalizing the response,
+identifying the specific behavioral precipitant and its impact on the
+therapist, and using the interaction to improve the patient?s under-
+standing of his or her interpersonal impact on the therapist and on
+others.
+CBASP sessions occurred twice weekly during Weeks 1?4 and
+once weekly during Weeks 5?12. During Weeks 5?8, up to four
+additional sessions could be added if a participant needed addi-
+tional assistance in mastering situational analysis. Thus, total
+CBASP treatment ranged from 16 to 20 sessions.
+BSP
+BSP resembled client-centered therapy with
+added psychoeducation regarding chronic depression. It was de-
+signed to control for the nonspecific elements of psychotherapeutic
+treatment and to provide a contrast with the more structured
+CBASP  The model used in
+the REVAMP study was similar to that used in studies of
+depressed HIV-positive dysthymic
+and chroni-
+cally depressed alcohol abuse patients  Therapists conducting BSP used an
+unpublished treatment manual that drew on the principles of sup-
+portive psychotherapy and emphasized the following ?common? psychother-
+apeutic factors  reflective listening,
+empathic therapeutic responses, evoking affect, normalizing pa-
+tient feelings such as anger and sadness, imparting therapeutic
+hope, encouraging patients to find solutions rather than directly
+suggesting them, and highlighting success experiences  Patients determined the session focus
+and pace, making sessions much less structured than in CBASP.
+Therapists elicited patients? emotional reactions and highlighted
+patients? strengths. Specific interpersonal, cognitive, behavioral,
+and psychodynamic interventions were prohibited  As in CBASP, 16?20 sessions of BSP
+were scheduled over 12 weeks.
+Forming an understanding and supportive therapeutic alliance is
+a primary goal of BSP. Therapists sought to achieve this by letting
+patients determine subject matter, listening carefully, mirroring
+patient affects in their own emotional responses during a session
+ echoing their feelings  using
+therapeutic silence to allow feelings to build in the room to
+demonstrate that therapists could tolerate ?noxious? patient feel-
+ings, and providing support and encouragement. In short, the
+alliance was fostered by helping the patient to feel that the thera-
+pist understood and empathized with him or her 
+Psychotherapists
+All psychotherapists were licensed and had at least 2 years of
+clinical experience after completing a doctorate degree in psychol-
+ogy or a psychiatric residency, or at least 5 years of experience
+after completing a master?s in social work degree. BSP therapists
+were comparable to CBASP therapists in type of professional
+degree and amount of clinical experience.
+Supervision and Protocol Adherence
+The developer of CBASP, James P. McCullough, Jr., PhD,
+trained and certified CBASP therapists and site supervisors. Sim-
+ilarly, John C. Markowitz, MD, trained and certified BSP thera-
+pists and site supervisors. All psychotherapy sessions were video-
+taped. Supervision was conducted by site supervisors who met
+weekly with therapists. Drs. McCullough and Markowitz provided
+monthly phone supervision to the full group of site CBASP and
+BSP supervisors, respectively.
+For both psychotherapy conditions, one or two session tapes for
+each therapist?patient dyad were randomly selected and rated for
+protocol adherence. Tapes were taken from early 
+and/or late sessions and rated in their entirety
+using the Collaborative Study Psychotherapy Rating Scale from
+T
+hi
+s
+do
+cu
+m
+en
+t
+is
+co
+py
+ri
+gh
+te
+d
+by
+th
+e
+A
+m
+er
+ic
+an
+Ps
+yc
+ho
+lo
+gi
+ca
+l
+A
+ss
+oc
+ia
+tio
+n
+or
+on
+e
+of
+its
+al
+lie
+d
+pu
+bl
+is
+he
+rs
+.
+T
+hi
+s
+ar
+tic
+le
+is
+in
+te
+nd
+ed
+so
+le
+ly
+fo
+r
+th
+e
+pe
+rs
+on
+al
+us
+e
+of
+th
+e
+in
+di
+vi
+du
+al
+us
+er
+an
+d
+is
+no
+t
+to
+be
+di
+ss
+em
+in
+at
+ed
+br
+oa
+dl
+y.
+630 ARNOW ET AL.
+the NIMH TDCRP  modified to also rule out
+situational analysis  and the CBASP Therapist Adher-
+ence Rating Scale 
+Randomization
+Randomization in Phase 2 was stratified by site, Phase 1 re-
+sponse status  and medication
+history  The randomization allocation ratio was 2:2:1
+ Only the CBASP 
+ADM and BSP  ADM treatment groups are included in the
+current study.
+Measures and Procedure
+Depressive symptoms. Raters assessed participant depressive
+symptoms every 2 weeks using the 24-item HAM-D  The 24-item version was selected because it contains cog-
+nitive items characteristic of chronically depressed individuals.
+Raters were blind to treatment condition. Rater and therapist
+offices were physically separated at each site, and raters began
+each assessment by requesting that participants not refer to psy-
+chotherapy or psychotherapists during the interview.
+Global Assessment of Functioning. Trained raters assessed
+level of impairment due to psychiatric symptoms at baseline using
+the Global Assessment of Functioning Scale  The GAF is a single numerical
+rating designed to capture an individual?s psychological, social,
+and occupational functioning. Scores range from 1 to 100, divided
+into 10-point intervals, each with a set of distinguishing charac-
+teristics. The GAF has demonstrated good interrater reliability
+and correlated moderately with other general symp-
+tom severity measures in a sample seeking outpatient mental
+health treatment 
+Therapeutic alliance. Because the current study focused on
+the therapeutic alliance in psychotherapy, alliance data were not
+collected in the medication-only group. For the CBASP and BSP
+conditions, the patient-rated short form of the Working Alliance
+Inventory was administered at three time points across Phase 2:
+early  middle  and late 
+Due to an administrative error, the WAI was not given at Week
+2?41 of 224 participants in this study. In these instances,
+the Week 4 score served as the early alliance score. Patients
+providing alliance data at Week 2 did not statistically differ from
+those providing data at Week 4 on any baseline or outcome
+measure 
+The WAI short form is a 12-item self-report measure derived
+from the full 36-item WAI  It has
+been widely used to assess therapeutic alliance. The full WAI
+correlates moderately with other alliance measures  and scores on both the full form and short form have predicted psycho-
+therapy outcome. We used the patient form because it predicts
+psychotherapy outcome more strongly than psychotherapist-rated
+assessment of the alliance  Because
+participants had two treating clinicians, a pharmacotherapist and a
+psychotherapist, the instructions clarified that the measure should
+be completed specifically regarding their psychotherapists.
+Items are rated on a 7-point Likert scale with higher scores
+reflecting a stronger therapeutic alliance. Both the original and the
+shortened versions of the WAI have a purported two-level struc-
+ture, with a general alliance factor that can be divided into three
+subscale scores: Goals, designed to measure therapist and
+patient agreement on the goals for therapy; Tasks, designed to
+measure therapist and patient agreement on how to achieve treat-
+ment goals; and Bond, designed to measure the quality of the
+therapist?patient relationship 
+Statistical Analyses
+Descriptive data were calculated for the total sample and by
+treatment group. Between-subjects descriptive variables were
+compared using independent samples t tests for continuous data
+and chi-square analyses for categorical data. Within-subjects de-
+scriptive variables were compared using paired samples t tests.
+Internal consistency of the WAI was examined by calculating
+Cronbach?s alpha for the early, middle, and late WAI total scores.
+A linear mixed model was used to test the main study hypothesis
+that stronger early alliance would predict greater treatment re-
+sponse. Fixed factors in the model included early WAI total score,
+treatment group, the interaction of WAI total score with treatment
+group, patient age, patient gender, baseline functioning  and
+early change in HAM-D  For the 46 patients whose early alliance was
+assessed at Week 4, the early change in symptoms variable was
+calculated using Week 4 minus baseline HAM-D score. Early
+change in HAM-D was included on the basis of the assumption
+that early response to treatment could influence both early treat-
+ment alliance and treatment outcome. Baseline GAF was included
+on the assumption that initial severity may correlate with response
+to treatment. GAF was chosen rather than baseline HAM-D be-
+cause of potential multicollinearity with the change in early symp-
+toms variable and because it incorporates a greater range of prog-
+nostically relevant information  Continuous predictor variables were mean
+centered, and dichotomous variables were coded as 0 or 1. The
+dependent variable was HAM-D total score measured at Weeks 2,
+4, 6, 8, and 12 of treatment  HAM-D observa-
+tions were specified as a repeated measures variable based on time.
+A similar linear mixed model was used to test whether early
+HAM-D symptom reduction predicted subsequent alliance. This
+model also tested whether CBASP  ADM and BSP  ADM
+treatment groups differed in development of the alliance. Centered
+values for early symptom change, treatment group, the interaction
+of early symptom change with treatment group, GAF and patient
+age, and dichotomous values for patient gender were entered as
+fixed factors. The dependent variable was WAI total score at
+Weeks 2  6, and 12. Mixed model analyses were conducted
+using the MIXED procedure in SPSS. An alpha of .05 was used for
+defining statistical significance in all analyses.
+Effect size is reported as Cohen?s d. The Cohen?s d statistic can
+be calculated from any statistical analysis that yields a t statistic
+T
+hi
+s
+do
+cu
+m
+en
+t
+is
+co
+py
+ri
+gh
+te
+d
+by
+th
+e
+A
+m
+er
+ic
+an
+Ps
+yc
+ho
+lo
+gi
+ca
+l
+A
+ss
+oc
+ia
+tio
+n
+or
+on
+e
+of
+its
+al
+lie
+d
+pu
+bl
+is
+he
+rs
+.
+T
+hi
+s
+ar
+tic
+le
+is
+in
+te
+nd
+ed
+so
+le
+ly
+fo
+r
+th
+e
+pe
+rs
+on
+al
+us
+e
+of
+th
+e
+in
+di
+vi
+du
+al
+us
+er
+an
+d
+is
+no
+t
+to
+be
+di
+ss
+em
+in
+at
+ed
+br
+oa
+dl
+y.
+631THERAPEUTIC ALLIANCE AND TREATMENT OUTCOME
+via the equation d  t/2  Additionally, for comparison with studies reporting effects
+as r values, the t statistic can be used to generate r via the equation
+r  [t2/1/2.
+Results
+Descriptive Characteristics
+Sample demographics appear in Table 1. There were no statis-
+tically significant differences between the two treatment groups on
+baseline variables. Two hundred participants were randomized
+to CBASP  ADM, and 195 were randomized to BSP  ADM.
+Of these, data on the variables of interest were available for 111
+participants in CBASP  ADM and 113 participants in BSP  ADM  Patients in the current study sample did
+not differ from participants in the larger study on any parameter
+
+Mean HAM-D scores across treatment appear in Figure 1.
+Consistent with findings of the main outcome study  HAM-D scores decreased in both groups during the 12-
+week trial  Mean WAI scores, measured during the early
+ middle  and late phases of the
+study appear in Figure 2. WAI scores increased significantly
+during the course of the study in both the BSP  ADM and
+CBASP  ADM groups  Internal consistency of the WAI was
+high at each time point 
+Prediction of Symptom Outcome From Early
+Therapeutic Working Alliance
+The mixed model analysis testing the primary hypothesis
+showed, as predicted, that higher early working alliance scores
+were significantly associated with lower subsequent HAM-D
+scores across treatment, F 62.48, p  .001. Parameter
+estimates appear in Table 2. The Treatment Group   Alliance
+interaction was also significant; however, the direction was con-
+trary to prediction, indicating that the association between alliance
+and subsequent symptom reduction was stronger among those in
+CBASP  ADM when compared with those in BSP  ADM, F 8.31, p  .004. Greater reduction in HAM-D scores in the
+initial weeks of treatment significantly predicted lower subsequent
+HAM-D scores, F 40.57, p  .001, as did higher
+baseline level of functioning as measured by the GAF,
+F 84.85, p  .001, and CBASP treatment group, F 4.19, p  .04, although treatment groups did not signif-
+icantly differ at the study end point. Age and gender were not
+predictive of HAM-D symptom reduction.
+In order to further assess the finding that the association be-
+tween alliance and HAM-D symptom reduction was stronger in
+CBASP  ADM than in BSP  ADM, additional mixed models
+analyses were run separately for each treatment group. The models
+were similar to the main analysis except that treatment group and
+the interaction of early alliance rating with treatment group were
+removed as fixed factors. As in the combined model, significant
+predictors for both treatment groups were baseline GAF, early
+alliance, and early HAM-D symptom change. In addition, there
+was a trend for younger age to predict greater HAM-D symptom
+reduction in BSP  ADM, F 3.72, p  .05. Parameter
+estimates appear in Tables 3a and 3b. Among those in CBASP 
+ADM, the estimated effect of early working alliance on HAM-D
+symptom reduction across treatment was .22 compared with
+.11 in BSP  ADM. Thus, over the course of treatment, those in
+CBASP  ADM showed an average HAM-D-point decrease of
+1.32 for each additional point increase on the WAI, whereas those
+in BSP  ADM showed an average HAM-D decrease of .66 for
+each additional point increase on the WAI. Cohen?s d for early
+working alliance was 1.00 in CBASP  ADM compared with .48
+in BSP  ADM.
+Prediction of Therapeutic Working Alliance From
+Early Symptom Reduction
+In the mixed model analysis evaluating whether treatment
+group or early symptom reduction predicted average alliance
+over treatment, early change in HAM-D did not predict mean
+therapeutic alliance ratings across treatment as a main effect,
+F 1.48, p  .23, or interact with treatment group to
+predict alliance, F 0.02, p  .90. Treatment group
+was predictive of therapeutic alliance such that mean alliance
+ratings across treatment were higher among those in CBASP 
+ADM when compared with those in BSP  ADM, F
+4.10, p  .04. Parameter estimates indicated that, on average,
+those in CBASP  ADM showed mean alliance ratings that
+Table 1
+Characteristics of Study Participants
+Characteristic CBASP  ADM BSP  ADM
+N 111 113
+Age, M 45.6 47.4 
+Gender 54.1 53.1
+Ethnicity 
+African American 3.6 3.5
+Caucasian 92.8 89.4
+Other 3.6 7.1
+Hispanic ethnicitya 
+Yes 9.0 5.3
+No 88.3 93.8
+Education in years, M 16 15 
+Marital status 
+Divorced, widowed, or separated 24.3 29.2
+Married or cohabitating 41.4 47.8
+Never married 34.2 23.0
+GAF, M 54 54 
+Current comorbid anxiety 36.9 38.9
+Alcohol abuse or dependence 3.6 1.8
+Phase II baseline HAM-D, M 18.7 19.5 
+Note. CBASP  cognitive behavioral analysis system of psychotherapy;
+ADM  antidepressant medication; BSP  brief supportive therapy;
+GAF  Global Assessment of Functioning; HAM-D  Hamilton Rating
+Scale for Depression.
+a Percentages do not total 100 due to missing data.
+T
+hi
+s
+do
+cu
+m
+en
+t
+is
+co
+py
+ri
+gh
+te
+d
+by
+th
+e
+A
+m
+er
+ic
+an
+Ps
+yc
+ho
+lo
+gi
+ca
+l
+A
+ss
+oc
+ia
+tio
+n
+or
+on
+e
+of
+its
+al
+lie
+d
+pu
+bl
+is
+he
+rs
+.
+T
+hi
+s
+ar
+tic
+le
+is
+in
+te
+nd
+ed
+so
+le
+ly
+fo
+r
+th
+e
+pe
+rs
+on
+al
+us
+e
+of
+th
+e
+in
+di
+vi
+du
+al
+us
+er
+an
+d
+is
+no
+t
+to
+be
+di
+ss
+em
+in
+at
+ed
+br
+oa
+dl
+y.
+632 ARNOW ET AL.
+were an average of 1.86 points higher on the WAI than those in
+BSP  ADM. Older age was predictive of stronger alliance,
+F 10.94, p  .001, and there was a trend for women
+to show higher alliance ratings than men, F 3.09, p 
+.08. Baseline GAF did not predict mean alliance, F
+0.85, p  .36.
+Treatment Group Differences in Therapeutic Working
+Alliance Ratings
+In order to explore treatment group differences in the
+alliance? outcome relationship, bivariate Pearson correlations
+between early alliance and HAM-D total scores at all time
+points were computed for each treatment group. Correlations
+appear in Table 4. Among patients who received CBASP 
+ADM, early alliance accounted for 4.4%?12.3% of the total
+variance in depressive symptoms between Weeks 4 and 12.
+Among patients receiving BSP  ADM, early alliance was not
+significantly correlated with symptom ratings except at Week 6,
+where it explained 5.3% of the variance in depressive symptom
+on the HAM-D.
+An additional exploratory analysis was conducted to identify
+whether particular aspects of the alliance differed between the
+Figure 1. Mean HAM-D scores across the 12-week study. Error bars represent standard error of the mean.
+Group means did not statistically differ at baseline  Week 2  Week 4  Week 6  or Week 12  Those in CBASP  ADM showed lower mean HAM-D scores than those in BSP 
+ADM at Week 10  There was a trend for
+those in CBASP  ADM to show lower mean HAM-D scores at Week 8  BSP  brief supportive
+therapy; CBASP  cognitive behavioral analysis system of psychotherapy; ADM  antidepressant medication;
+HAM-D  Hamilton Rating Scale for Depression.
+Figure 2. Scores across treatment on the Working Alliance Inventory. Error bars represent standard error of the
+mean. Early treatment n  113 in BSP  ADM and 111 in CBASP  ADM; Middle treatment n  73 in BSP 
+ADM and 63 in CBASP  ADM; Late treatment n  99 in BSP  ADM and 94 in CBASP  ADM. BSP 
+brief supportive therapy; CBASP  cognitive behavioral analysis system of psychotherapy; ADM  antide-
+pressant medication; WAI  Working Alliance Inventory.
+T
+hi
+s
+do
+cu
+m
+en
+t
+is
+co
+py
+ri
+gh
+te
+d
+by
+th
+e
+A
+m
+er
+ic
+an
+Ps
+yc
+ho
+lo
+gi
+ca
+l
+A
+ss
+oc
+ia
+tio
+n
+or
+on
+e
+of
+its
+al
+lie
+d
+pu
+bl
+is
+he
+rs
+.
+T
+hi
+s
+ar
+tic
+le
+is
+in
+te
+nd
+ed
+so
+le
+ly
+fo
+r
+th
+e
+pe
+rs
+on
+al
+us
+e
+of
+th
+e
+in
+di
+vi
+du
+al
+us
+er
+an
+d
+is
+no
+t
+to
+be
+di
+ss
+em
+in
+at
+ed
+br
+oa
+dl
+y.
+633THERAPEUTIC ALLIANCE AND TREATMENT OUTCOME
+groups. A one-way analysis of variance was used to compare mean
+early alliance subscale scores on the WAI between those in the CBASP  ADM and BSP  ADM
+subgroups. There were no significant differences in the Bond
+subscale between the two treatment groups, F 0.01, p 
+.94. However, compared with those in BSP  ADM, those in
+CBASP  ADM showed higher mean ratings on Tasks,
+F 6.22, p  .05, M SP  21.65  M
+BASP  23.05  and Goals subscales of the WAI,
+F 4.31, p  .05, M SP  22.54  M
+BASP  23.62 
+Discussion
+We examined the association between early psychotherapeutic
+alliance and subsequent symptom change across treatment in a
+large sample of chronically depressed patients receiving two dif-
+ferent psychotherapy models, CBASP or BSP, combined with
+ADM. We also tested an alternative explanation for the relation-
+ship between the alliance and outcome, namely that early symptom
+change predicts subsequent alliance. Additionally, we tested
+whether patients in these two treatments differed in alliance de-
+velopment and in dimensions of the alliance early in treatment.
+Consistent with the primary hypothesis, in both the CBASP 
+ADM and BSP  ADM conditions, early alliance significantly
+predicted subsequent depressive symptom ratings. Furthermore,
+we observed these relationships after accounting for the variance
+in outcome associated with baseline functioning and symptom
+change occurring prior to the alliance assessment. Our findings on
+the alliance?outcome association in CBASP replicate those of
+Klein et al.  who found that alliance predicted subsequent
+depressive symptoms, controlling for change prior to alliance
+assessment among chronically depressed patients receiving
+CBASP  ADM as well among patients receiving only CBASP.
+We know of no findings testing the relationship between alliance
+and outcome in patients receiving BSP, alone or with antidepres-
+sant but our findings appear consistent with the conceptualiza-
+tion of BSP as a ?common factors? treatment emphasizing features that are shared across dif-
+ferent models of psychotherapy, including the therapeutic alliance.
+In the combined mixed model involving the full study sample,
+early alliance, baseline GAF, treatment arm, early change in de-
+pressive symptoms, and the interaction of treatment arm with early
+alliance all significantly predicted outcome. In the models in which
+these variables were evaluated separately for patients randomized
+to BSP  ADM and CBASP  ADM, early symptom change,
+early alliance, and GAF continued to predict in both conditions.
+Although we had hypothesized that the alliance would predict
+outcome in both BSP and CBASP, the role of the therapeutic
+alliance presumably functions differently in these two models. In
+contrasting the alliance in CBT-oriented therapies with other mod-
+els, Castonguay, Constantino, McAleavey, and Goldfried 
+noted that CBT models rely on specific techniques that produce
+change ?on their own?  whereas other psychotherapy
+models may conceptualize the alliance as ?a change mechanism
+Table 2
+Mixed Model Parameter Estimates for the Prediction of HAM-D Symptom Reduction Across Treatment 
+Variable Estimate SE t Significance 95% CI Lower 95% CI Upper d
+Intercepta 14.72 .39 38.05 p  .001 13.96 15.48 3.60
+Gender .30 .46 .65 p  .52 1.20 .60 .06
+Age .04 .02 1.65 p  .10 .01 .07 .16
+Baseline GAF .27 .03 9.21 p  .001 .32 .21 .87
+Early alliance .23 .03 7.48 p  .001 .29 .17 .71
+Early symptom change .21 .03 6.37 p  .001 .14 .28 .60
+Treatment group .93 .46 2.05 p  .04 1.79 .01 .19
+Alliance   Treatment Group .12 .04 2.88 p  .004 .04 .21 .27
+Note. Gender reference group  male. Treatment group reference group  CBASP  ADM. HAM-D  Hamilton Rating Scale for Depression; CI 
+confidence interval; GAF  Global Assessment of Functioning; CBASP  cognitive behavioral analysis system of psychotherapy; ADM  antidepressant
+medication.
+a Intercept reflects estimated mean HAM-D score across all time points.
+Table 3a
+Mixed Model Parameter Estimates for the Prediction of HAM-D Symptom Reduction Across Treatment Among Patients Receiving
+CBASP  ADM 
+Variable Estimate SE t Significance 95% CI Lower 95% CI Upper d
+Intercepta 14.43 .45 34.16 p  .001 14.93 16.71 4.59
+Female gender .06 .62 .11 p  .91 1.29 1.14 .01
+Age .01 .03 .45 p  .66 .04 .07 .06
+Baseline GAF .25 .04 6.80 p  .001 .32 .17 .91
+Early alliance .22 .03 7.48 p  .001 .28 .16 1.00
+Early symptom change .14 .05 3.01 p  .003 .05 .22 .40
+Note. Gender reference group  male. HAM-D  Hamilton Rating Scale for Depression; CBASP  cognitive behavioral analysis system of
+psychotherapy; ADM  antidepressant medication; CI  confidence interval; GAF  Global Assessment of Functioning.
+a Intercept reflects estimated mean HAM-D score across all time points.
+T
+hi
+s
+do
+cu
+m
+en
+t
+is
+co
+py
+ri
+gh
+te
+d
+by
+th
+e
+A
+m
+er
+ic
+an
+Ps
+yc
+ho
+lo
+gi
+ca
+l
+A
+ss
+oc
+ia
+tio
+n
+or
+on
+e
+of
+its
+al
+lie
+d
+pu
+bl
+is
+he
+rs
+.
+T
+hi
+s
+ar
+tic
+le
+is
+in
+te
+nd
+ed
+so
+le
+ly
+fo
+r
+th
+e
+pe
+rs
+on
+al
+us
+e
+of
+th
+e
+in
+di
+vi
+du
+al
+us
+er
+an
+d
+is
+no
+t
+to
+be
+di
+ss
+em
+in
+at
+ed
+br
+oa
+dl
+y.
+634 ARNOW ET AL.
+itself?  That the alliance predicted outcome in both of
+these models provides evidence of its critical role across different
+approaches to psychotherapy.
+We hypothesized that the magnitude of the alliance?outcome
+association would be greater in the BSP than the CBASP group.
+This hypothesis was not supported. In fact, although we did find a
+significant Alliance   Treatment interaction, the association be-
+tween the alliance and HAM-D ratings was significantly higher
+among patients receiving CBASP compared with BSP. We also
+found evidence that participants in the CBASP condition rated
+alliance as stronger across treatment than those in BSP.
+Because BSP is conceptualized as a ?common factors? treat-
+ment emphasizing features
+that are shared across different models of psychotherapy, including
+the therapeutic alliance, we were surprised by both of these find-
+ings. In examining WAI subscale scores of early alliance ratings,
+we found no differences between BSP and CBASP groups on the
+Bond subscale. However, CBASP patients rated the Tasks and
+Goals subscale items more highly than those in the BSP condition.
+One explanation for these findings is that compared with those in
+the nondirective BSP, the structural features of CBASP enhanced the patients? sense
+that the treatment procedures would be helpful and that their goals
+for treatment were aligned with those of their therapists. In gen-
+eral, the task and goal dimensions of the therapeutic alliance may
+be amplified in a structured treatment emphasizing specific pro-
+cedures, compared with a less structured one. Our findings are
+consistent with those of Webb et al., 2011, who reported that the
+relationship between the WAI and depression
+symptom reduction in CT was significantly related to a factor
+comprising patient?therapist agreement on goals and tasks, but not
+to a factor assessing affective bond between patient and therapist.
+The possibility that clear within-session procedures may pro-
+mote a stronger therapeutic alliance when compared with the
+nondirective therapies was discussed almost two decades ago
+and is consistent with two subsequent
+studies, which found higher alliance levels in CBT than
+psychodynamic-interpersonal therapy  Bedi, Davis, and
+Williams found that from the patient perspective, tech-
+niques addressing symptoms were more important in facilitating
+the therapeutic alliance than actions specifically aimed at alliance
+development. More frequent alliance
+measures would help to determine whether the pattern of differ-
+ences in the alliance that we observed across the two treatments
+would replicate.
+Interestingly, and consistent with others? findings  alliance scores significantly increased in linear fashion over
+the 12-week treatment in both groups. We found no evidence of a
+V-shaped pattern, reflecting a strong early alliance, followed by
+rupture and repair, which has been found in some studies to be
+associated with superior outcome  However, we only assessed the alliance at three time points,
+and we cannot rule out the possibility that more frequent assess-
+ment might have revealed such a pattern. Although alliances
+improved over the course of treatment, symptom change prior to
+assessment of the early alliance did not predict subsequent alliance
+ratings, suggesting that alliance ratings were not attributable to
+early symptom change. Even so, patients? experience of the ther-
+apeutic alliance may be strengthened by improvement in depres-
+sion across later stages of treatment, by increased familiarity and
+Table 3b
+Mixed Model Parameter Estimates for the Prediction of HAM-D Symptom Reduction Across Treatment Among Patients Receiving
+BSP  ADM 
+Variable Estimate SE t Significance 95% CI Lower 95% CI Upper d
+Intercepta 15.81 .45 34.85 p  .001 14.93 16.71 4.63
+Female gender .54 .68 .79 p  .43 1.87 .79 .11
+Age .06 .03 1.93 p  .05 .00 .12 .26
+Baseline GAF .30 .05 6.39 p  .001 .40 .21 .85
+Early alliance .11 .03 3.58 p  .001 .17 .05 .48
+Early symptom change .29 .05 5.73 p  .001 .19 .38 .76
+Note. Gender reference group  male. HAM-D  Hamilton Rating Scale for Depression; BSP  brief supportive psychotherapy; ADM  antidepressant
+medication; CI  confidence interval; GAF  Global Assessment of Functioning.
+a Intercept reflects estimated mean HAM-D score across all time points.
+Table 4
+Bivariate Correlations Between Alliance and HAM-D Total Scores
+Measure
+HAM-D total score
+Baseline Week 2 Week 4 Week 6 Week 8 Week 10 Week 12
+WAI total in CBASP  ADM .23 .10 .35 .32 .23 .35 .21
+WAI total in BSP  ADM .15 .16 .11 .23 .14 .10 .13
+Note. ns range from 111 to 63 in CBASP  ADM because of missing data. ns range from 113 to 73 in BSP  ADM because of missing data. HAM-D 
+Hamilton Rating Scale for Depression; WAI  Working Alliance Inventory; CBASP  cognitive behavioral analysis system of psychotherapy; ADM 
+antidepressant medication; BSP  brief supportive psychotherapy.
+ p  .05.  p  .01.
+T
+hi
+s
+do
+cu
+m
+en
+t
+is
+co
+py
+ri
+gh
+te
+d
+by
+th
+e
+A
+m
+er
+ic
+an
+Ps
+yc
+ho
+lo
+gi
+ca
+l
+A
+ss
+oc
+ia
+tio
+n
+or
+on
+e
+of
+its
+al
+lie
+d
+pu
+bl
+is
+he
+rs
+.
+T
+hi
+s
+ar
+tic
+le
+is
+in
+te
+nd
+ed
+so
+le
+ly
+fo
+r
+th
+e
+pe
+rs
+on
+al
+us
+e
+of
+th
+e
+in
+di
+vi
+du
+al
+us
+er
+an
+d
+is
+no
+t
+to
+be
+di
+ss
+em
+in
+at
+ed
+br
+oa
+dl
+y.
+635THERAPEUTIC ALLIANCE AND TREATMENT OUTCOME
+contact with the therapist, or both. Both the total scores and the
+change observed over the course of treatment are similar to those
+reported by Klein et al. in a previous investigation of the
+alliance?outcome relationship in chronically depressed patients
+using the WAI short form.
+Little attention has been paid to the relative size of alliance
+effects in predicting outcome across studies. We found Cohen?s
+d?s of 1.00 for CBASP  ADM and 0.48 for BSP  ADM. Effect
+sizes can also be presented as an r statistic. Crits-Christoph and
+colleagues recently demonstrated that effects of alliance on
+treatment outcome are consistently larger when aggregated across
+multiple observations. These authors found r values of .32, .38,
+and .41 when predicting outcome in psychotherapy for depression
+from alliance scores aggregated across Sessions 3?6, 4?7, and
+5?8, respectively. While Crits-Cristoph et al. assessed
+alliance across multiple treatment modalities, Gaston et al. 
+isolated independent effects of alliance on outcome in behavior
+therapy, cognitive therapy, and brief psychodynamic therapy.
+These authors reported rs between early treatment alliance and
+outcome of .56, .48, and .42 across the three modalities, respec-
+tively. Translating to r values, we found effects of alliance on
+outcome of .58 and .32 in CBASP and BSP. Thus, our findings are
+consistent with previously published work.
+Given that alliance scores increased as HAM-D scores de-
+creased, we examined whether early symptom change predicted
+alliance ratings over the course of treatment and did not find a
+relationship. This finding is consistent with those of Klein et al.
+ Barber et al.  and Feeley et al.  but not with
+two other studies 
+Differences between our findings and those of Strunk et al. 
+may reflect considerable differences in analytic strategies. We
+examined the relationship between early change and later alliance,
+whereas Strunk et al. focused on only the first five
+therapist?patient encounters. Among other differences, our sample
+consisted entirely of chronically depressed patients, and all of our
+participants received concomitant pharmacotherapy. That early
+alliance predicted subsequent symptom ratings yet early symptom
+change did not predict later alliance suggests that the observed
+increases in alliance across the study are not merely a consequence
+of patients? decreased depression. The patient?s perception of their
+relationship with their therapist does not appear to be attributable
+to improved mood.
+Our study had several limitations that may limit generalizability.
+First, all patients received psychotherapy in the context of a
+randomized clinical trial with several unique characteristics. They
+were initially recruited for an open pharmacotherapy trial from
+which only partial or nonresponders to medication were random-
+ized to BSP  ADM or CBASP  ADM. Thus, patients may have
+been somewhat more discouraged compared with those participat-
+ing in trials that do not select for non- or partial response. In
+addition, many of these patients may not have been initially
+seeking psychotherapy, or, conversely, were seeking psychother-
+apy and had to wait to receive it. Second, both BSP and CBASP
+were limited to 12 weeks. Third, all patients received concomitant
+pharmacotherapy; the extent to which these findings apply to
+settings in which psychotherapy is provided alone is unclear. Klein
+et al. found that, among chronically depressed patients
+receiving CBASP alone or CBASP combined with pharmacother-
+apy, alliances were stronger in the combined condition, but the
+relationship between the alliance and outcome was similar in both
+conditions  Additionally, the extent of coop-
+eration, collegiality, supervision, and accountability among psy-
+chopharmacologists and psychotherapists under clinical trial con-
+ditions may differ from community settings. Fourth, some study
+patients were omitted due to missing data. The current sample
+comprises approximately 57% of the total number of patients
+randomized to the two psychotherapy arms of the study  Although we observed no differences between patients
+whom we included versus those who lacked alliance data, we
+cannot rule out differences beyond those that were formally as-
+sessed. Finally, because there were no significant differences in the
+primary efficacy measures between the three treatment groups
+ it could be argued that the significant reduc-
+tions in depression observed in all three conditions were attribut-
+able to the effects of medication. However, we assume that
+between-group and within-group change are independent. That is,
+even when mean levels of between-group change are similar, the
+predictors of change and their magnitude of effects may differ in
+each group. Conversely, it is possible that levels of change may be
+significantly different between groups, and yet within-group pre-
+dictors of change may be similar. Moreover, the working alliance
+was not assessed in patients receiving medication only, and thus
+we can neither rule out nor support the possibility that it was a
+significant predictor of the changes observed in that group.
+The above limitations notwithstanding, our study had numerous
+strengths. These include the randomized design, adequate sample
+size for testing the study hypotheses, ability to compare the ther-
+apeutic alliance?outcome relationship in two psychotherapies with
+different assumptions regarding the role of the alliance, careful
+assessment of patients, use of blinded raters, and use of experi-
+enced therapists.
+To conclude, we found that alliance quality significantly pre-
+dicted subsequent change in depressive symptoms among patients
+receiving CBASP and BSP  The strength of
+the relationship between the alliance and outcome was signifi-
+cantly greater in CBASP, a more structured psychotherapy com-
+pared with BSP. Nonetheless, that early therapeutic alliance sig-
+nificantly predicted subsequent symptom ratings in two dissimilar
+psychotherapy models after accounting for early improvement in
+symptoms underscores its consistent and important role in the
+process of change.
+References
+American Psychiatric Association.  Practice guideline for the treat-
+ment of patients with major depressive disorder  American
+Journal of Psychiatry, 157 1?45.
+Arnow, B. A.  Cognitive behavioral analysis system of psychother-
+apy for chronic depression. Cognitive and Behavioral Practice, 12,
+6?16. doi:10.1016/S1077-72290035-5
+Barber, J. P.  Toward a working through of some core conflicts in
+psychotherapy research. Psychotherapy Research, 19, 1?12. doi:
+10.1080/10503300802609680
+Barber, J. P., Connolly, M. B., Crits-Christoph, P., Gladis, L., & Siqueland,
+L.  Alliance predicts patients? outcome beyond in-treatment
+change in symptoms. Journal of Consulting and Clinical Psychology,
+68, 1027?1032. doi:10.1037/0022-006X.68.6.1027
+Barber, J. P., Khalsa, S. R., & Sharpless, B. A.  The validity of the
+T
+hi
+s
+do
+cu
+m
+en
+t
+is
+co
+py
+ri
+gh
+te
+d
+by
+th
+e
+A
+m
+er
+ic
+an
+Ps
+yc
+ho
+lo
+gi
+ca
+l
+A
+ss
+oc
+ia
+tio
+n
+or
+on
+e
+of
+its
+al
+lie
+d
+pu
+bl
+is
+he
+rs
+.
+T
+hi
+s
+ar
+tic
+le
+is
+in
+te
+nd
+ed
+so
+le
+ly
+fo
+r
+th
+e
+pe
+rs
+on
+al
+us
+e
+of
+th
+e
+in
+di
+vi
+du
+al
+us
+er
+an
+d
+is
+no
+t
+to
+be
+di
+ss
+em
+in
+at
+ed
+br
+oa
+dl
+y.
+636 ARNOW ET AL.
+alliance as a predictor of psychotherapy outcome. In J. C. Muran & J. P.
+Barber  The therapeutic alliance: An evidence-based guide to
+practice  New York, NY: Guilford Press.
+Barber, J. P., Luborsky, L., Crits-Christoph, P., Thase, M. E., Weiss, R.,
+Frank, A., . . . Gallop, R.  Therapeutic alliance as a predictor of
+outcome in treatment of cocaine dependence. Psychotherapy Research,
+9, 54?73.
+Barber, J. P., Luborsky, L., Gallop, R., Crits-Christoph, P., Frank, A.,
+Weiss, R. D., . . . Siqueland, L.  Therapeutic alliance as a
+predictor of outcome and retention in the National Institute on Drug
+Abuse Collaborative Cocaine Treatment Study. Journal of Consulting
+and Clinical Psychology, 69, 119?124. doi:10.1037/0022-006X.69.1
+.119
+Bedi, R. P., Davis, M. D., & Williams, M.  Critical incidents in the
+formation of the therapeutic alliance from the client?s perspective. Psy-
+chotherapy: Theory, Research, Practice, Training, 42, 311?323. doi:
+10.1037/0033-3204.42.3.311
+Bordin, E. S.  The generalizability of the psychoanalytic concept of
+the working alliance. Psychotherapy: Theory, Research & Practice, 16,
+252?260. doi:10.1037/h0085885
+Castonguay, L. G., Constantino, M. J., & Holtforth, M. G.  The
+working alliance: Where are we and where should we go? Psychother-
+apy: Theory, Research, Practice, Training, 43, 271?279. doi:10.1037/
+0033-3204.43.3.271
+Castonguay, L. G., Constantino, M. J., McAleavey, A. A., & Goldfried,
+M. R.  The therapeutic alliance in cognitive-behavioral therapy.
+In J. C. Muran & J. P. Barber  The therapeutic alliance: An
+evidence-based guide to practice  New York, NY: Guil-
+ford Press.
+Constantino, M. J., Castonguay, L. G., & Schut, A. J.  The working
+alliance: A flagship for the ?scientist-practitioner? model in psychother-
+apy. In G. S. Tryon  Counseling based on process research:
+Applying what we know  Boston, MA: Allyn & Bacon.
+Constantino, M. J., Marnell, M. E., Haile, A. J., Kanther-Sista, S. N.,
+Wolman, K., Zappert, L., & Arnow, B.  Integrative cognitive
+therapy for depression: A randomized pilot comparison. Psychotherapy:
+Theory, Research, Practice, Training, 45, 122?134. doi:10.1037/0033-
+3204.45.2.122
+Crits-Christoph, P., Connolly Gibbons, M. B., Crits-Christoph, K., Nar-
+ducci, J., Schamberger, M., & Gallop, R.  Can therapists be
+trained to improve their alliances? A preliminary study of alliance-
+fostering psychotherapy. Psychotherapy Research, 16, 268?281. doi:
+10.1080/10503300500268557
+Crits-Christoph, P., Gibbons, M. B., Hamilton, J., Ring-Kurtz, S., &
+Gallop, R.  The dependability of alliance assessments: The
+alliance?outcome correlation is larger than you might think. Journal of
+Consulting and Clinical Psychology, 79, 267?278. doi:10.1037/
+a0023668
+DeRubeis, R. J., & Feeley, M.  Determinants of change in cognitive
+therapy for depression. Cognitive Therapy and Research, 14, 469?482.
+doi:10.1007/BF01172968
+Dunlap, W. P., Cortina, J. M., Vaslow, J. B., & Burke, M. J. 
+Meta-analysis of experiments with matched groups or repeated measures
+designs. Psychological Methods, 1, 170?177. doi:10.1037/1082-989X.1
+.2.170
+Elkin, I., Shea, M. T., Watkins, J. T., Imber, S. D., Sotsky, S. M., Collins,
+J. F., . . . Parloff, M. B.  National Institute of Mental Health
+Treatment of Depression Collaborative Research Program: General ef-
+fectiveness of treatments. Archives of General Psychiatry, 46, 971?982.
+doi:10.1001/archpsyc.1989.01810110013002
+Endicott, J., Spitzer, R. L., Fleiss, J. L., & Cohen, J.  The Global
+Assessment Scale: A procedure for measuring overall severity of psy-
+chiatric disturbance. Archives of General Psychiatry, 33, 766?771.
+doi:10.1001/archpsyc.1976.01770060086012
+Fava, M., Rush, A. J., Trivedi, M. H., Nierenberg, A. A., Thase, M. E.,
+Sackeim, H. A., . . . Kupfer, D. J.  Background and rationale for
+the Sequenced Treatment Alternatives to Relieve Depression 
+study. Psychiatric Clinics of North America, 26, 457?494. doi:10.1016/
+S0193-953X0107-7
+Fawcett, J., Epstein, P., Fiester, S. J., Elkin, I., & Autry, J. H. 
+Clinical management?imipramine/placebo administration manual.
+NIMH Treatment of Depression Collaborative Research Program. Psy-
+chopharmacology Bulletin, 23, 309?324.
+Feeley, M., DeRubeis, R. J., & Gelfand, L. A.  The temporal
+relation of adherence and alliance to symptom change in cognitive
+therapy for depression. Journal of Consulting and Clinical Psychology,
+67, 578?582. doi:10.1037/0022-006X.67.4.578
+First, M. B., Spitzer, R. L. O., Gibbon, M., & Williams, J. B. W. 
+The Structured Clinical Interview for DSM-IV Axis I Disorders. New
+York, NY: Biometrices Research Department, New York State Psychi-
+atric Institute.
+Frank, J. D.  Persuasion and healing. Oxford, England: Schocken.
+Gaston, L., Marmar, C. R., Gallagher, D., & Thompson, L. W. 
+Alliance prediction of outcome beyond in-treatment symptomatic
+change as psychotherapy processes. Psychotherapy Research, 1, 104?
+112. doi:10.1080/10503309112331335531
+Hamilton, M.  A rating scale for depression. Journal of Neurology,
+Neurosurgery and Psychiatry, 23, 56?61. doi:10.1136/jnnp.23.1.56
+Hatcher, R. L., & Gillaspy, J. A.  Development and validation of a
+revised short version of the Working Alliance Inventory. Psychotherapy
+Research, 16, 12?25. doi:10.1080/10503300500352500
+Hilsenroth, M. J., Ackerman, S. J., Blagys, M. D., Baumann, B. D., Baity,
+M. R., Smith, S. R., . . . Holdwick, D. J., Jr.  Reliability and
+validity of DSM-IV axis V. American Journal of Psychiatry, 157,
+1858?1863. doi:10.1176/appi.ajp.157.11.1858
+Horvath, A. O.  Research on the alliance. In A. O. Horvath & L. S.
+Greenberg  The working alliance: Theory, research, and practice
+ New York, NY: Wiley.
+Horvath, A. O., Del Re, A. C., Flückinger, C., & Symonds, D. 
+Alliance in individual psychotherapy. In J. C. Norcross  Psycho-
+therapy relationships that work: Evidence-based responsiveness  New York, NY: Oxford University Press. doi:10.1093/
+acprof:oso/9780199737208.003.0002
+Horvath, A. O., & Greenberg, L. S.  Development and validation of
+the Working Alliance Inventory. Journal of Counseling Psychology, 36,
+223?233. doi:10.1037/0022-0167.36.2.223
+Horvath, A. O., & Symonds, B. D.  Relation between working
+alliance and outcome in psychotherapy. Journal of Counseling Psychol-
+ogy, 38, 139?149. doi:10.1037/0022-0167.38.2.139
+Joiner, T. E., & Timmons, K. A.  Depression in its interpersonal
+context  In I. H. Gotlib & C. L. Hammen  Handbook of
+depression  New York, NY: Guilford Press.
+Kiesler, D. J., & Schmidt, J. A.  The impact message inventory:
+Form IIA octant scale version. Richmond: Virginia Commonwealth
+University.
+Klein, D. N., Arnow, B. A., Barkin, J. L., Dowling, F., Kocsis, J. H., Leon,
+A. C., . . . Wisniewski, S. R.  Early adversity in chronic depres-
+sion: Clinical correlates and response to pharmacotherapy. Depression
+and Anxiety, 26, 701?710. doi:10.1002/da.20577
+Klein, D. N., Schwartz, J. E., Santiago, N. J., Vivian, D., Vocisano, C.,
+Castonguay, L. G., . . . Keller, M. B.  Therapeutic alliance in
+depression treatment: Controlling for prior change and patient charac-
+teristics. Journal of Consulting and Clinical Psychology, 71, 997?1006.
+doi:10.1037/0022-006X.71.6.997
+Kocsis, J. H., Gelenberg, A. J., Rothbaum, B. O., Klein, D. N., Trivedi,
+M. H., Manber, R., . . . Thase, M. E.  Cognitive behavioral
+analysis system of psychotherapy and brief supportive psychotherapy for
+augmentation of antidepressant nonresponse in chronic depression: The
+T
+hi
+s
+do
+cu
+m
+en
+t
+is
+co
+py
+ri
+gh
+te
+d
+by
+th
+e
+A
+m
+er
+ic
+an
+Ps
+yc
+ho
+lo
+gi
+ca
+l
+A
+ss
+oc
+ia
+tio
+n
+or
+on
+e
+of
+its
+al
+lie
+d
+pu
+bl
+is
+he
+rs
+.
+T
+hi
+s
+ar
+tic
+le
+is
+in
+te
+nd
+ed
+so
+le
+ly
+fo
+r
+th
+e
+pe
+rs
+on
+al
+us
+e
+of
+th
+e
+in
+di
+vi
+du
+al
+us
+er
+an
+d
+is
+no
+t
+to
+be
+di
+ss
+em
+in
+at
+ed
+br
+oa
+dl
+y.
+637THERAPEUTIC ALLIANCE AND TREATMENT OUTCOME
+REVAMP trial. Archives of General Psychiatry, 66, 1178?1188. doi:
+10.1001/archgenpsychiatry.2009.144
+Kraemer, H. C., Wilson, G. T., Fairburn, C. G., & Agras, W. S. 
+Mediators and moderators of treatment effects in randomized clinical
+trials. Archives of General Psychiatry, 59, 877? 883. doi:10.1001/
+archpsyc.59.10.877
+Markowitz, J. C., Kocsis, J. H., Bleiberg, K. L., Christos, P. J., & Sacks,
+M. H.  A comparative trial of psychotherapy and pharmacother-
+apy for ?pure? dysthymic patients. Journal of Affective Disorders, 89,
+167?175. doi:10.1016/j.jad.2005.10.001
+Markowitz, J. C., Kocsis, J. H., Christos, P., Bleiberg, K., & Carlin, A.
+ Pilot study of interpersonal psychotherapy versus supportive
+psychotherapy for dysthymic patients with secondary alcohol abuse of
+dependence. The Journal of Nervous and Mental Disease, 196, 468?
+474. doi:10.1097/NMD.0b013e31817738f1
+Markowitz, J. C., Kocsis, J. H., Fishman, B., Spielman, L. A., Jacobsberg,
+L. B., Frances, A. J., . . . Perry, S. W.  Treatment of depressive
+symptoms in human immunodeficiency virus-positive patients. Archives
+of General Psychiatry, 55, 452?457. doi:10.1001/archpsyc.55.5.452
+Markowitz, J. C., Manber, R., & Rosen, P.  Therapists? responses to
+training in brief supportive psychotherapy. American Journal of Psy-
+chotherapy, 62, 67?81.
+McCullough, J. P.  Treatment for chronic depression: Cognitive
+behavioral analysis system of psychotherapy. New York, NY: Guilford
+Press.
+Novalis, P. N., Rojcewicz, S. J., & Peele, R.  Clinical manual of
+supportive psychotherapy. Washington, DC: American Psychiatric
+Press.
+Piaget, J.  The language and thought of the child. New York, NY:
+Harcourt, Brace.
+Piaget, J.  Six psychological studies  New York,
+NY: Random House.
+Pinsker, H.  A primer of supportive psychotherapy. Hillsdale, NJ:
+The Analytic Press.
+Raue, P. J., Castonguay, L. G., & Goldfried, M. R.  The working
+alliance: A comparison of two therapies. Psychotherapy Research, 3,
+197?207. doi:10.1080/10503309312331333789
+Raue, P. J., & Goldfried, M. R.  The therapeutic alliance in
+cognitive-behavior therapy. In A. O. Horvath & L. S. Greenberg 
+The working alliance: Theory, research, and practice 
+New York, NY: John Wiley & Sons, Inc.
+Raue, P. J., Goldfried, M. R., & Barkham, M.  The therapeutic
+alliance in psychodynamic-interpersonal and cognitive-behavioral ther-
+apy. Journal of Consulting and Clinical Psychology, 65, 582?587.
+doi:10.1037/0022-006X.65.4.582
+Rogers, C. R.  Client-centered therapy. Boston, MA: Houghton
+Mifflin.
+Stiles, W. B., Glick, M. J., Osatuke, K., Hardy, G. E., Shapiro, D. A.,
+Agnew-Davies, R., . . . Barkham, M.  Patterns of alliance devel-
+opment and the rupture?repair hypothesis: Are productive relationships
+U-shaped or V-shaped? Journal of Counseling Psychology, 51, 81?92.
+doi:10.1037/0022-0167.51.1.81
+Strauss, J. L., Hayes, A. M., Johnson, S. L., Newman, C. R., Brown, G. K.,
+Barber, J. P., . . . Beck, A. T.  Early alliance, alliance ruptures,
+and symptom change in a nonrandomized trial of cognitive therapy for
+avoidant and obsessive?compulsive personality disorders. Journal of
+Consulting and Clinical Psychology, 74, 337?345. doi:10.1037/0022-
+006X.74.2.337
+Strunk, D. R., Brotman, M. A., & DeRubeis, R. J.  The process of
+change in cognitive therapy for depression: Predictors of early inter-
+session symptom gains. Behavior Research and Therapy, 48, 599?606.
+doi:10.1016/j.brat.2010.03.011
+Tracey, T. J., & Kokotovic, A.  Factor structure of the Working
+Alliance Inventory. Psychological Assessment: A Journal of Consulting
+and Clinical Psychology, 1, 207?210. doi:10.1037/1040-3590.1.3.207
+Webb, C. A., DeRubeis, R. J., Amsterdam, J. D., Shelton, R. C., Hollon,
+S. D., & Dimidjian, S.  Two aspects of the therapeutic alliance:
+Differential relations with depressive symptom change. Journal of Con-
+sulting and Clinical Psychology, 79, 279?283. doi:10.1037/a0023252
+Received October 20, 2011
+Revision received November 16, 2012
+Accepted November 27, 2012 
+T
+hi
+s
+do
+cu
+m
+en
+t
+is
+co
+py
+ri
+gh
+te
+d
+by
+th
+e
+A
+m
+er
+ic
+an
+Ps
+yc
+ho
+lo
+gi
+ca
+l
+A
+ss
+oc
+ia
+tio
+n
+or
+on
+e
+of
+its
+al
+lie
+d
+pu
+bl
+is
+he
+rs
+.
+T
+hi
+s
+ar
+tic
+le
+is
+in
+te
+nd
+ed
+so
+le
+ly
+fo
+r
+th
+e
+pe
+rs
+on
+al
+us
+e
+of
+th
+e
+in
+di
+vi
+du
+al
+us
+er
+an
+d
+is
+no
+t
+to
+be
+di
+ss
+em
+in
+at
+ed
+br
+oa
+dl
+y.
+638 ARNOW ET AL.
